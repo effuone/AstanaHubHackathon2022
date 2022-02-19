@@ -1,0 +1,4 @@
+namespace QMarket.Api.Interfaces
+{
+    
+}

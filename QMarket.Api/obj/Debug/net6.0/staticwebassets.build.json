@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D53QGDIegNlX06G5gXKzDD0UWOX0KtldTqyPzL0XKFE=",
+  "Source": "QMarket.Api",
+  "BasePath": "_content/QMarket.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
